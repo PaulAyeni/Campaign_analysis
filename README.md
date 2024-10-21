@@ -2,12 +2,12 @@
 In this project, I utilised public data from Kaggle about a marketing company conducting an experiment to determine whether ads or public service announcements yield better results.
 
 
-#About Dataset
+# About Dataset
 
-##Marketing A/B testing dataset 
+## Marketing A/B testing dataset 
 ## Access data here: https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing
 
-Marketing companies want to run successful campaigns, but the market is complex and several options can work. So normally they tun A/B tests, that is a randomized experimentation process wherein two or more versions of a variable (web page, page element, banner, etc.) are shown to different segments of people at the same time to determine which version leaves the maximum impact and drive business metrics.
+Marketing companies want to run successful campaigns, but the market is complex and several options can work. So normally they turn to A/B testing, that is a randomized experimentation process wherein two or more versions of a variable (web page, page element, banner, etc.) are shown to different segments of people at the same time to determine which version leaves the maximum impact and drive business metrics.
 
 The companies are interested in answering two questions:
 
